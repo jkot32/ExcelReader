@@ -4,7 +4,7 @@ Soubory jsou postupně procházeny po řádcích, program přečte nanejvýš je
 
 Vzhledem k rozdílným velikostem vstupu jsou pro rozpoznání prvočísel použity 2 algoritmy, pomalejší (exaktní) je použit pouze pro vstupy menší než hraniční hodnota, pro větší čísla je použit aproximační algoritmus.
 
-
+Spustitelná verze (.jar) je ke stažení [zde](https://github.com/jkot32/ExcelReader/releases/tag/Release)
 
 ## Rozhraní
 ### Validator
